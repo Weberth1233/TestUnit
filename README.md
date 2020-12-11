@@ -1,2 +1,2 @@
 # TestUnit
-Utilizando JUnit em alguns métodos de uma fila.
+Utilizando JUnit para realização de alguns testes em uma fila.
